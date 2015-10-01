@@ -57,7 +57,7 @@
          "web" : "https://github.com/perlancar/perl-PERLANCAR-Debian-Releases"
       }
    },
-   "version" : "0.02",
+   "version" : "0.03",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.022000"
@@ -336,7 +336,7 @@
                      {
                         "class" : "Pod::Weaver::Plugin::Rinci",
                         "name" : "@Author::PERLANCAR/Rinci",
-                        "version" : "0.43"
+                        "version" : "0.46"
                      },
                      {
                         "class" : "Pod::Weaver::Plugin::AppendPrepend",

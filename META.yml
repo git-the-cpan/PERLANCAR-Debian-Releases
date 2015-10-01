@@ -23,7 +23,7 @@ resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=PERLANCAR-Debian-Releases
   homepage: https://metacpan.org/release/PERLANCAR-Debian-Releases
   repository: git://github.com/perlancar/perl-PERLANCAR-Debian-Releases.git
-version: '0.02'
+version: '0.03'
 x_Dist_Zilla:
   perl:
     version: '5.022000'
@@ -247,7 +247,7 @@ x_Dist_Zilla:
             -
               class: Pod::Weaver::Plugin::Rinci
               name: '@Author::PERLANCAR/Rinci'
-              version: '0.43'
+              version: '0.46'
             -
               class: Pod::Weaver::Plugin::AppendPrepend
               name: '@Author::PERLANCAR/AppendPrepend'
